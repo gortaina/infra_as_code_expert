@@ -3,6 +3,7 @@
 [ ] incluir detalhes da conta da aws, cartão de crédito
 [ ] uso do usuário para o docker sem permissão de admin
 [ ] alguns plugins do vscode, como TerraForm publisher:"Mikael Olenfalk" 1.4.0
+[] configuraçao de região teclado
 
 
 
