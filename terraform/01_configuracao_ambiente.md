@@ -1,8 +1,9 @@
 ## VERSÃO DRAFT ####
 
-[] incluir detalhes da conta da aws, cartão de crédito
-[] uso do usuário para o docker sem permissão de admin
-[] alguns plugins do vscode
+[ ] incluir detalhes da conta da aws, cartão de crédito
+[ ] uso do usuário para o docker sem permissão de admin
+[ ] alguns plugins do vscode, como TerraForm publisher:"Mikael Olenfalk" 1.4.0
+
 
 
 depois de criar sua conta na AWS, sugiro usar um e-mail temporário, pois se vc esquecer algo rodando lá, pode se assustar com a fatura do seu cartão, aconteceu isso comigo, esqueci um serviço lá, que eu pensava que era gratuito, mas não...
