@@ -21,4 +21,7 @@ lista de comando para rollback
 <br>ls -a
 <br>-apagar o diretório do state do terraform
 <br>sudo rm -rf .terraform/
+<br> opcional, listar e depois remover a imagem desejada
+docker images  
+docker rmi <image-id>
 
