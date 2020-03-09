@@ -22,7 +22,7 @@ lista de comando para rollback
 <br>-parar o contêiner
 <br>docker stop "container id"
 <br>-remover o contêiner
-<br>docker rm "container id"
+<br>docker rmv "container id"
 <br>-listar os arquivos ocultos, como o do state do terraform
 <br>ls -a
 <br>-apagar o diretório do state do terraform
