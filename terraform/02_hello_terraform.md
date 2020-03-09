@@ -6,6 +6,7 @@
 - [ ] Verificar arquivos mínimos para o hello world, main.tf
 - [ ] lista de comandos para rollback
 
+Para aula-02, só o main.tf é necessários, coloque os outros arquivos noutro diretório
 
 lista de comando para rollback
 
