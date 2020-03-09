@@ -6,7 +6,7 @@
 - [ ] Verificar arquivos mínimos para o hello world, main.tf
 - [ ] lista de comandos para rollback
 
-Para aula-02, só o main.tf é necessários, coloque os outros arquivos noutro diretório
+Para aula-02, só o main.tf é necessário, coloque os outros arquivos noutro diretório
 
 execução para o docker
 sudo docker run -it -v $PWD:/app -w /app --entrypoint "" hashicorp/terraform:light sh
