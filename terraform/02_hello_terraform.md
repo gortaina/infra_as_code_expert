@@ -9,6 +9,8 @@
 
 lista de comando para rollback
 
+<br>-destrua o plano
+<br>terraform destroy
 <br>-saia do contêiner
 <br>exit
 <br>-listar os contêiner, copiar o CONTAINER ID da imagem "hashicorp/terraform:light "
