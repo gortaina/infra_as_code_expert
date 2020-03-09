@@ -8,6 +8,9 @@
 
 Para aula-02, só o main.tf é necessários, coloque os outros arquivos noutro diretório
 
+execução para o docker
+sudo docker run -it -v $PWD:/app -w /app --entrypoint "" hashicorp/terraform:light sh
+
 lista de comando para rollback
 
 <br>-destrua o plano
