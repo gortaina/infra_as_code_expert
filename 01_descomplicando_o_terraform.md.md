@@ -4,9 +4,9 @@ Configuração do Ambiente
 ### Progresso do curso
 | Aulas               | Status    |
 |---------------------|-----------|
-| [Aula 01](https://github.com/gortaina/infra_as_code_expert/blob/master/terraform/01_configuracao_ambiente.md) | In progress :construction: | 
+| [Aula 01](https://github.com/gortaina/infra_as_code_expert/blob/master/terraform/01_configuracao_ambiente.md) | In progress :pencil: | 
 | [Aula 02](https://github.com/gortaina/infra_as_code_expert/blob/master/terraform/02_hello_terraform.md) | In progress :construction: |
-| Aula 03 | :checkered_flag: |
+| [Aula 03](https://github.com/gortaina/infra_as_code_expert/blob/master/terraform/03_aula_instancia_ec2.md) | In progress :ambulance: |
 | Aula 04 | :checkered_flag: |
 | Aula 05 | :checkered_flag: |
 | Aula 06 | :checkered_flag: |
