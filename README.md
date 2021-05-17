@@ -5,7 +5,7 @@ Esse é meu logbook do curso Infra-as-Code Expert da LinuxTips composto de 4 tre
 ### Master Node
 | Treinamento                 | Status      |
 |-------------------------|-----------|
-|[01 - Descomplicando o Terraform ](https://github.com/gortaina/infra_as_code_expert/blob/master/01_descomplicando_o_terraform.md.md) | In progress :construction: | 
+|[01 - Descomplicando o Terraform ](https://github.com/gortaina/infra_as_code_expert/blob/master/01_descomplicando_o_terraform.md.md) | :checkered_flag: | 
 | 02 - Descomplicando o Ansible   | :checkered_flag: |
 | 03 - Descomplicando o Packer    | :checkered_flag: |
 | 04 - Descomplicando o Vault     | :checkered_flag: |
